@@ -1,0 +1,596 @@
+tzid,windowsName,windowsId
+Etc/GMT+12,International Date Line West,Dateline Standard Time
+Etc/GMT+11,Coordinated Universal Time-11,UTC-11
+Pacific/Pago_Pago,Coordinated Universal Time-11,UTC-11
+Pacific/Niue,Coordinated Universal Time-11,UTC-11
+Pacific/Midway,Coordinated Universal Time-11,UTC-11
+America/Adak,Aleutian Islands,Aleutian Standard Time
+Pacific/Honolulu,Hawaii,Hawaiian Standard Time
+Pacific/Rarotonga,Hawaii,Hawaiian Standard Time
+Pacific/Tahiti,Hawaii,Hawaiian Standard Time
+Pacific/Johnston,Hawaii,Hawaiian Standard Time
+Etc/GMT+10,Hawaii,Hawaiian Standard Time
+Pacific/Marquesas,Marquesas Islands,Marquesas Standard Time
+America/Anchorage,Alaska,Alaskan Standard Time
+America/Anchorage America/Juneau America/Metlakatla America/Nome America/Sitka America/Yakutat,Alaska,Alaskan Standard Time
+Etc/GMT+9,Coordinated Universal Time-09,UTC-09
+Pacific/Gambier,Coordinated Universal Time-09,UTC-09
+America/Tijuana,Baja California,Pacific Standard Time (Mexico)
+America/Tijuana America/Santa_Isabel,Baja California,Pacific Standard Time (Mexico)
+Etc/GMT+8,Coordinated Universal Time-08,UTC-08
+Pacific/Pitcairn,Coordinated Universal Time-08,UTC-08
+America/Los_Angeles,Pacific Time (US & Canada),Pacific Standard Time
+America/Vancouver America/Dawson America/Whitehorse,Pacific Time (US & Canada),Pacific Standard Time
+PST8PDT,Pacific Time (US & Canada),Pacific Standard Time
+America/Phoenix,Arizona,US Mountain Standard Time
+America/Dawson_Creek America/Creston America/Fort_Nelson,Arizona,US Mountain Standard Time
+America/Hermosillo,Arizona,US Mountain Standard Time
+Etc/GMT+7,Arizona,US Mountain Standard Time
+America/Chihuahua,"Chihuahua, La Paz, Mazatlan",Mountain Standard Time (Mexico)
+America/Chihuahua America/Mazatlan,"Chihuahua, La Paz, Mazatlan",Mountain Standard Time (Mexico)
+America/Denver,Mountain Time (US & Canada),Mountain Standard Time
+America/Edmonton America/Cambridge_Bay America/Inuvik America/Yellowknife,Mountain Time (US & Canada),Mountain Standard Time
+America/Ojinaga,Mountain Time (US & Canada),Mountain Standard Time
+America/Denver America/Boise,Mountain Time (US & Canada),Mountain Standard Time
+MST7MDT,Mountain Time (US & Canada),Mountain Standard Time
+America/Guatemala,Central America,Central America Standard Time
+America/Belize,Central America,Central America Standard Time
+America/Costa_Rica,Central America,Central America Standard Time
+Pacific/Galapagos,Central America,Central America Standard Time
+America/Tegucigalpa,Central America,Central America Standard Time
+America/Managua,Central America,Central America Standard Time
+America/El_Salvador,Central America,Central America Standard Time
+Etc/GMT+6,Central America,Central America Standard Time
+America/Chicago,Central Time (US & Canada),Central Standard Time
+America/Winnipeg America/Rainy_River America/Rankin_Inlet America/Resolute,Central Time (US & Canada),Central Standard Time
+America/Matamoros,Central Time (US & Canada),Central Standard Time
+America/Chicago America/Indiana/Knox America/Indiana/Tell_City America/Menominee America/North_Dakota/Beulah America/North_Dakota/Center America/North_Dakota/New_Salem,Central Time (US & Canada),Central Standard Time
+CST6CDT,Central Time (US & Canada),Central Standard Time
+Pacific/Easter,Easter Island,Easter Island Standard Time
+America/Mexico_City,"Guadalajara, Mexico City, Monterrey",Central Standard Time (Mexico)
+America/Mexico_City America/Bahia_Banderas America/Merida America/Monterrey,"Guadalajara, Mexico City, Monterrey",Central Standard Time (Mexico)
+America/Regina,Saskatchewan,Canada Central Standard Time
+America/Regina America/Swift_Current,Saskatchewan,Canada Central Standard Time
+America/Bogota,"Bogota, Lima, Quito, Rio Branco",SA Pacific Standard Time
+America/Rio_Branco America/Eirunepe,"Bogota, Lima, Quito, Rio Branco",SA Pacific Standard Time
+America/Coral_Harbour,"Bogota, Lima, Quito, Rio Branco",SA Pacific Standard Time
+America/Guayaquil,"Bogota, Lima, Quito, Rio Branco",SA Pacific Standard Time
+America/Jamaica,"Bogota, Lima, Quito, Rio Branco",SA Pacific Standard Time
+America/Cayman,"Bogota, Lima, Quito, Rio Branco",SA Pacific Standard Time
+America/Panama,"Bogota, Lima, Quito, Rio Branco",SA Pacific Standard Time
+America/Lima,"Bogota, Lima, Quito, Rio Branco",SA Pacific Standard Time
+Etc/GMT+5,"Bogota, Lima, Quito, Rio Branco",SA Pacific Standard Time
+America/Cancun,Chetumal,Eastern Standard Time (Mexico)
+America/New_York,Eastern Time (US & Canada),Eastern Standard Time
+America/Nassau,Eastern Time (US & Canada),Eastern Standard Time
+America/Toronto America/Iqaluit America/Montreal America/Nipigon America/Pangnirtung America/Thunder_Bay,Eastern Time (US & Canada),Eastern Standard Time
+America/New_York America/Detroit America/Indiana/Petersburg America/Indiana/Vincennes America/Indiana/Winamac America/Kentucky/Monticello America/Louisville,Eastern Time (US & Canada),Eastern Standard Time
+EST5EDT,Eastern Time (US & Canada),Eastern Standard Time
+America/Port-au-Prince,Haiti,Haiti Standard Time
+America/Havana,Havana,Cuba Standard Time
+America/Indianapolis,Indiana (East),US Eastern Standard Time
+America/Indianapolis America/Indiana/Marengo America/Indiana/Vevay,Indiana (East),US Eastern Standard Time
+America/Asuncion,Asuncion,Paraguay Standard Time
+America/Halifax,Atlantic Time (Canada),Atlantic Standard Time
+Atlantic/Bermuda,Atlantic Time (Canada),Atlantic Standard Time
+America/Halifax America/Glace_Bay America/Goose_Bay America/Moncton,Atlantic Time (Canada),Atlantic Standard Time
+America/Thule,Atlantic Time (Canada),Atlantic Standard Time
+America/Caracas,Caracas,Venezuela Standard Time
+America/Cuiaba,Cuiaba,Central Brazilian Standard Time
+America/Cuiaba America/Campo_Grande,Cuiaba,Central Brazilian Standard Time
+America/La_Paz,"Georgetown, La Paz, Manaus, San Juan",SA Western Standard Time
+America/Antigua,"Georgetown, La Paz, Manaus, San Juan",SA Western Standard Time
+America/Anguilla,"Georgetown, La Paz, Manaus, San Juan",SA Western Standard Time
+America/Aruba,"Georgetown, La Paz, Manaus, San Juan",SA Western Standard Time
+America/Barbados,"Georgetown, La Paz, Manaus, San Juan",SA Western Standard Time
+America/St_Barthelemy,"Georgetown, La Paz, Manaus, San Juan",SA Western Standard Time
+America/Kralendijk,"Georgetown, La Paz, Manaus, San Juan",SA Western Standard Time
+America/Manaus America/Boa_Vista America/Porto_Velho,"Georgetown, La Paz, Manaus, San Juan",SA Western Standard Time
+America/Blanc-Sablon,"Georgetown, La Paz, Manaus, San Juan",SA Western Standard Time
+America/Curacao,"Georgetown, La Paz, Manaus, San Juan",SA Western Standard Time
+America/Dominica,"Georgetown, La Paz, Manaus, San Juan",SA Western Standard Time
+America/Santo_Domingo,"Georgetown, La Paz, Manaus, San Juan",SA Western Standard Time
+America/Grenada,"Georgetown, La Paz, Manaus, San Juan",SA Western Standard Time
+America/Guadeloupe,"Georgetown, La Paz, Manaus, San Juan",SA Western Standard Time
+America/Guyana,"Georgetown, La Paz, Manaus, San Juan",SA Western Standard Time
+America/St_Kitts,"Georgetown, La Paz, Manaus, San Juan",SA Western Standard Time
+America/St_Lucia,"Georgetown, La Paz, Manaus, San Juan",SA Western Standard Time
+America/Marigot,"Georgetown, La Paz, Manaus, San Juan",SA Western Standard Time
+America/Martinique,"Georgetown, La Paz, Manaus, San Juan",SA Western Standard Time
+America/Montserrat,"Georgetown, La Paz, Manaus, San Juan",SA Western Standard Time
+America/Puerto_Rico,"Georgetown, La Paz, Manaus, San Juan",SA Western Standard Time
+America/Lower_Princes,"Georgetown, La Paz, Manaus, San Juan",SA Western Standard Time
+America/Port_of_Spain,"Georgetown, La Paz, Manaus, San Juan",SA Western Standard Time
+America/St_Vincent,"Georgetown, La Paz, Manaus, San Juan",SA Western Standard Time
+America/Tortola,"Georgetown, La Paz, Manaus, San Juan",SA Western Standard Time
+America/St_Thomas,"Georgetown, La Paz, Manaus, San Juan",SA Western Standard Time
+Etc/GMT+4,"Georgetown, La Paz, Manaus, San Juan",SA Western Standard Time
+America/Santiago,Santiago,Pacific SA Standard Time
+Antarctica/Palmer,Santiago,Pacific SA Standard Time
+America/Grand_Turk,Turks and Caicos,Turks And Caicos Standard Time
+America/St_Johns,Newfoundland,Newfoundland Standard Time
+America/Araguaina,Araguaina,Tocantins Standard Time
+America/Sao_Paulo,Brasilia,E. South America Standard Time
+America/Cayenne,"Cayenne, Fortaleza",SA Eastern Standard Time
+Antarctica/Rothera,"Cayenne, Fortaleza",SA Eastern Standard Time
+America/Fortaleza America/Belem America/Maceio America/Recife America/Santarem,"Cayenne, Fortaleza",SA Eastern Standard Time
+Atlantic/Stanley,"Cayenne, Fortaleza",SA Eastern Standard Time
+America/Paramaribo,"Cayenne, Fortaleza",SA Eastern Standard Time
+Etc/GMT+3,"Cayenne, Fortaleza",SA Eastern Standard Time
+America/Buenos_Aires,City of Buenos Aires,Argentina Standard Time
+America/Buenos_Aires America/Argentina/La_Rioja America/Argentina/Rio_Gallegos America/Argentina/Salta America/Argentina/San_Juan America/Argentina/San_Luis America/Argentina/Tucuman America/Argentina/Ushuaia America/Catamarca America/Cordoba America/Jujuy America/Mendoza,City of Buenos Aires,Argentina Standard Time
+America/Godthab,Greenland,Greenland Standard Time
+America/Montevideo,Montevideo,Montevideo Standard Time
+America/Miquelon,Saint Pierre and Miquelon,Saint Pierre Standard Time
+America/Bahia,Salvador,Bahia Standard Time
+Etc/GMT+2,Coordinated Universal Time-02,UTC-02
+America/Noronha,Coordinated Universal Time-02,UTC-02
+Atlantic/South_Georgia,Coordinated Universal Time-02,UTC-02
+Atlantic/Azores,Azores,Azores Standard Time
+America/Scoresbysund,Azores,Azores Standard Time
+Atlantic/Cape_Verde,Cabo Verde Is.,Cape Verde Standard Time
+Etc/GMT+1,Cabo Verde Is.,Cape Verde Standard Time
+Etc/GMT,Coordinated Universal Time,UTC
+America/Danmarkshavn,Coordinated Universal Time,UTC
+Africa/Casablanca,Casablanca,Morocco Standard Time
+Africa/El_Aaiun,Casablanca,Morocco Standard Time
+Europe/London,"Dublin, Edinburgh, Lisbon, London",GMT Standard Time
+Atlantic/Canary,"Dublin, Edinburgh, Lisbon, London",GMT Standard Time
+Atlantic/Faeroe,"Dublin, Edinburgh, Lisbon, London",GMT Standard Time
+Europe/Guernsey,"Dublin, Edinburgh, Lisbon, London",GMT Standard Time
+Europe/Dublin,"Dublin, Edinburgh, Lisbon, London",GMT Standard Time
+Europe/Isle_of_Man,"Dublin, Edinburgh, Lisbon, London",GMT Standard Time
+Europe/Jersey,"Dublin, Edinburgh, Lisbon, London",GMT Standard Time
+Europe/Lisbon Atlantic/Madeira,"Dublin, Edinburgh, Lisbon, London",GMT Standard Time
+Atlantic/Reykjavik,"Monrovia, Reykjavik",Greenwich Standard Time
+Africa/Ouagadougou,"Monrovia, Reykjavik",Greenwich Standard Time
+Africa/Abidjan,"Monrovia, Reykjavik",Greenwich Standard Time
+Africa/Accra,"Monrovia, Reykjavik",Greenwich Standard Time
+Africa/Banjul,"Monrovia, Reykjavik",Greenwich Standard Time
+Africa/Conakry,"Monrovia, Reykjavik",Greenwich Standard Time
+Africa/Bissau,"Monrovia, Reykjavik",Greenwich Standard Time
+Africa/Monrovia,"Monrovia, Reykjavik",Greenwich Standard Time
+Africa/Bamako,"Monrovia, Reykjavik",Greenwich Standard Time
+Africa/Nouakchott,"Monrovia, Reykjavik",Greenwich Standard Time
+Atlantic/St_Helena,"Monrovia, Reykjavik",Greenwich Standard Time
+Africa/Freetown,"Monrovia, Reykjavik",Greenwich Standard Time
+Africa/Dakar,"Monrovia, Reykjavik",Greenwich Standard Time
+Africa/Sao_Tome,"Monrovia, Reykjavik",Greenwich Standard Time
+Africa/Lome,"Monrovia, Reykjavik",Greenwich Standard Time
+Europe/Berlin,"Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",W. Europe Standard Time
+Europe/Andorra,"Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",W. Europe Standard Time
+Europe/Vienna,"Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",W. Europe Standard Time
+Europe/Zurich,"Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",W. Europe Standard Time
+Europe/Berlin Europe/Busingen,"Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",W. Europe Standard Time
+Europe/Gibraltar,"Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",W. Europe Standard Time
+Europe/Rome,"Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",W. Europe Standard Time
+Europe/Vaduz,"Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",W. Europe Standard Time
+Europe/Luxembourg,"Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",W. Europe Standard Time
+Europe/Monaco,"Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",W. Europe Standard Time
+Europe/Malta,"Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",W. Europe Standard Time
+Europe/Amsterdam,"Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",W. Europe Standard Time
+Europe/Oslo,"Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",W. Europe Standard Time
+Europe/Stockholm,"Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",W. Europe Standard Time
+Arctic/Longyearbyen,"Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",W. Europe Standard Time
+Europe/San_Marino,"Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",W. Europe Standard Time
+Europe/Vatican,"Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",W. Europe Standard Time
+Europe/Budapest,"Belgrade, Bratislava, Budapest, Ljubljana, Prague",Central Europe Standard Time
+Europe/Tirane,"Belgrade, Bratislava, Budapest, Ljubljana, Prague",Central Europe Standard Time
+Europe/Prague,"Belgrade, Bratislava, Budapest, Ljubljana, Prague",Central Europe Standard Time
+Europe/Podgorica,"Belgrade, Bratislava, Budapest, Ljubljana, Prague",Central Europe Standard Time
+Europe/Belgrade,"Belgrade, Bratislava, Budapest, Ljubljana, Prague",Central Europe Standard Time
+Europe/Ljubljana,"Belgrade, Bratislava, Budapest, Ljubljana, Prague",Central Europe Standard Time
+Europe/Bratislava,"Belgrade, Bratislava, Budapest, Ljubljana, Prague",Central Europe Standard Time
+Europe/Paris,"Brussels, Copenhagen, Madrid, Paris",Romance Standard Time
+Europe/Brussels,"Brussels, Copenhagen, Madrid, Paris",Romance Standard Time
+Europe/Copenhagen,"Brussels, Copenhagen, Madrid, Paris",Romance Standard Time
+Europe/Madrid Africa/Ceuta,"Brussels, Copenhagen, Madrid, Paris",Romance Standard Time
+Europe/Warsaw,"Sarajevo, Skopje, Warsaw, Zagreb",Central European Standard Time
+Europe/Sarajevo,"Sarajevo, Skopje, Warsaw, Zagreb",Central European Standard Time
+Europe/Zagreb,"Sarajevo, Skopje, Warsaw, Zagreb",Central European Standard Time
+Europe/Skopje,"Sarajevo, Skopje, Warsaw, Zagreb",Central European Standard Time
+Africa/Lagos,West Central Africa,W. Central Africa Standard Time
+Africa/Luanda,West Central Africa,W. Central Africa Standard Time
+Africa/Porto-Novo,West Central Africa,W. Central Africa Standard Time
+Africa/Kinshasa,West Central Africa,W. Central Africa Standard Time
+Africa/Bangui,West Central Africa,W. Central Africa Standard Time
+Africa/Brazzaville,West Central Africa,W. Central Africa Standard Time
+Africa/Douala,West Central Africa,W. Central Africa Standard Time
+Africa/Algiers,West Central Africa,W. Central Africa Standard Time
+Africa/Libreville,West Central Africa,W. Central Africa Standard Time
+Africa/Malabo,West Central Africa,W. Central Africa Standard Time
+Africa/Niamey,West Central Africa,W. Central Africa Standard Time
+Africa/Ndjamena,West Central Africa,W. Central Africa Standard Time
+Africa/Tunis,West Central Africa,W. Central Africa Standard Time
+Etc/GMT-1,West Central Africa,W. Central Africa Standard Time
+Africa/Windhoek,Windhoek,Namibia Standard Time
+Asia/Amman,Amman,Jordan Standard Time
+Europe/Bucharest,"Athens, Bucharest",GTB Standard Time
+Asia/Nicosia,"Athens, Bucharest",GTB Standard Time
+Europe/Athens,"Athens, Bucharest",GTB Standard Time
+Asia/Beirut,Beirut,Middle East Standard Time
+Africa/Cairo,Cairo,Egypt Standard Time
+Europe/Chisinau,Chisinau,E. Europe Standard Time
+Asia/Damascus,Damascus,Syria Standard Time
+Asia/Hebron,"Gaza, Hebron",West Bank Standard Time
+Asia/Hebron Asia/Gaza,"Gaza, Hebron",West Bank Standard Time
+Africa/Johannesburg,"Harare, Pretoria",South Africa Standard Time
+Africa/Bujumbura,"Harare, Pretoria",South Africa Standard Time
+Africa/Gaborone,"Harare, Pretoria",South Africa Standard Time
+Africa/Lubumbashi,"Harare, Pretoria",South Africa Standard Time
+Africa/Maseru,"Harare, Pretoria",South Africa Standard Time
+Africa/Blantyre,"Harare, Pretoria",South Africa Standard Time
+Africa/Maputo,"Harare, Pretoria",South Africa Standard Time
+Africa/Kigali,"Harare, Pretoria",South Africa Standard Time
+Africa/Mbabane,"Harare, Pretoria",South Africa Standard Time
+Africa/Lusaka,"Harare, Pretoria",South Africa Standard Time
+Africa/Harare,"Harare, Pretoria",South Africa Standard Time
+Etc/GMT-2,"Harare, Pretoria",South Africa Standard Time
+Europe/Kiev,"Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",FLE Standard Time
+Europe/Mariehamn,"Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",FLE Standard Time
+Europe/Sofia,"Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",FLE Standard Time
+Europe/Tallinn,"Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",FLE Standard Time
+Europe/Helsinki,"Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",FLE Standard Time
+Europe/Vilnius,"Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",FLE Standard Time
+Europe/Riga,"Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",FLE Standard Time
+Europe/Kiev Europe/Uzhgorod Europe/Zaporozhye,"Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",FLE Standard Time
+Europe/Istanbul,Istanbul,Turkey Standard Time
+Asia/Jerusalem,Jerusalem,Israel Standard Time
+Europe/Kaliningrad,Kaliningrad,Kaliningrad Standard Time
+Africa/Tripoli,Tripoli,Libya Standard Time
+Asia/Baghdad,Baghdad,Arabic Standard Time
+Asia/Riyadh,"Kuwait, Riyadh",Arab Standard Time
+Asia/Bahrain,"Kuwait, Riyadh",Arab Standard Time
+Asia/Kuwait,"Kuwait, Riyadh",Arab Standard Time
+Asia/Qatar,"Kuwait, Riyadh",Arab Standard Time
+Asia/Aden,"Kuwait, Riyadh",Arab Standard Time
+Europe/Minsk,Minsk,Belarus Standard Time
+Europe/Moscow,"Moscow, St. Petersburg, Volgograd",Russian Standard Time
+Europe/Moscow Europe/Kirov Europe/Simferopol Europe/Volgograd,"Moscow, St. Petersburg, Volgograd",Russian Standard Time
+Africa/Nairobi,Nairobi,E. Africa Standard Time
+Antarctica/Syowa,Nairobi,E. Africa Standard Time
+Africa/Djibouti,Nairobi,E. Africa Standard Time
+Africa/Asmera,Nairobi,E. Africa Standard Time
+Africa/Addis_Ababa,Nairobi,E. Africa Standard Time
+Indian/Comoro,Nairobi,E. Africa Standard Time
+Indian/Antananarivo,Nairobi,E. Africa Standard Time
+Africa/Khartoum,Nairobi,E. Africa Standard Time
+Africa/Mogadishu,Nairobi,E. Africa Standard Time
+Africa/Juba,Nairobi,E. Africa Standard Time
+Africa/Dar_es_Salaam,Nairobi,E. Africa Standard Time
+Africa/Kampala,Nairobi,E. Africa Standard Time
+Indian/Mayotte,Nairobi,E. Africa Standard Time
+Etc/GMT-3,Nairobi,E. Africa Standard Time
+Asia/Tehran,Tehran,Iran Standard Time
+Asia/Dubai,"Abu Dhabi, Muscat",Arabian Standard Time
+Asia/Muscat,"Abu Dhabi, Muscat",Arabian Standard Time
+Etc/GMT-4,"Abu Dhabi, Muscat",Arabian Standard Time
+Europe/Astrakhan,"Astrakhan, Ulyanovsk",Astrakhan Standard Time
+Europe/Astrakhan Europe/Ulyanovsk,"Astrakhan, Ulyanovsk",Astrakhan Standard Time
+Asia/Baku,Baku,Azerbaijan Standard Time
+Europe/Samara,"Izhevsk, Samara",Russia Time Zone 3
+Indian/Mauritius,Port Louis,Mauritius Standard Time
+Indian/Reunion,Port Louis,Mauritius Standard Time
+Indian/Mahe,Port Louis,Mauritius Standard Time
+Asia/Tbilisi,Tbilisi,Georgian Standard Time
+Asia/Yerevan,Yerevan,Caucasus Standard Time
+Asia/Kabul,Kabul,Afghanistan Standard Time
+Asia/Tashkent,"Ashgabat, Tashkent",West Asia Standard Time
+Antarctica/Mawson,"Ashgabat, Tashkent",West Asia Standard Time
+Asia/Oral Asia/Aqtau Asia/Aqtobe,"Ashgabat, Tashkent",West Asia Standard Time
+Indian/Maldives,"Ashgabat, Tashkent",West Asia Standard Time
+Indian/Kerguelen,"Ashgabat, Tashkent",West Asia Standard Time
+Asia/Dushanbe,"Ashgabat, Tashkent",West Asia Standard Time
+Asia/Ashgabat,"Ashgabat, Tashkent",West Asia Standard Time
+Asia/Tashkent Asia/Samarkand,"Ashgabat, Tashkent",West Asia Standard Time
+Etc/GMT-5,"Ashgabat, Tashkent",West Asia Standard Time
+Asia/Yekaterinburg,Ekaterinburg,Ekaterinburg Standard Time
+Asia/Karachi,"Islamabad, Karachi",Pakistan Standard Time
+Asia/Calcutta,"Chennai, Kolkata, Mumbai, New Delhi",India Standard Time
+Asia/Colombo,Sri Jayawardenepura,Sri Lanka Standard Time
+Asia/Katmandu,Kathmandu,Nepal Standard Time
+Asia/Almaty,Astana,Central Asia Standard Time
+Antarctica/Vostok,Astana,Central Asia Standard Time
+Asia/Urumqi,Astana,Central Asia Standard Time
+Indian/Chagos,Astana,Central Asia Standard Time
+Asia/Bishkek,Astana,Central Asia Standard Time
+Asia/Almaty Asia/Qyzylorda,Astana,Central Asia Standard Time
+Etc/GMT-6,Astana,Central Asia Standard Time
+Asia/Dhaka,Dhaka,Bangladesh Standard Time
+Asia/Thimphu,Dhaka,Bangladesh Standard Time
+Asia/Novosibirsk,Novosibirsk,N. Central Asia Standard Time
+Asia/Novosibirsk Asia/Omsk,Novosibirsk,N. Central Asia Standard Time
+Asia/Rangoon,Yangon (Rangoon),Myanmar Standard Time
+Indian/Cocos,Yangon (Rangoon),Myanmar Standard Time
+Asia/Bangkok,"Bangkok, Hanoi, Jakarta",SE Asia Standard Time
+Antarctica/Davis,"Bangkok, Hanoi, Jakarta",SE Asia Standard Time
+Indian/Christmas,"Bangkok, Hanoi, Jakarta",SE Asia Standard Time
+Asia/Jakarta Asia/Pontianak,"Bangkok, Hanoi, Jakarta",SE Asia Standard Time
+Asia/Phnom_Penh,"Bangkok, Hanoi, Jakarta",SE Asia Standard Time
+Asia/Vientiane,"Bangkok, Hanoi, Jakarta",SE Asia Standard Time
+Asia/Saigon,"Bangkok, Hanoi, Jakarta",SE Asia Standard Time
+Etc/GMT-7,"Bangkok, Hanoi, Jakarta",SE Asia Standard Time
+Asia/Barnaul,"Barnaul, Gorno-Altaysk",Altai Standard Time
+Asia/Hovd,Hovd,W. Mongolia Standard Time
+Asia/Krasnoyarsk,Krasnoyarsk,North Asia Standard Time
+Asia/Krasnoyarsk Asia/Novokuznetsk,Krasnoyarsk,North Asia Standard Time
+Asia/Tomsk,Tomsk,Tomsk Standard Time
+Asia/Shanghai,"Beijing, Chongqing, Hong Kong, Urumqi",China Standard Time
+Asia/Hong_Kong,"Beijing, Chongqing, Hong Kong, Urumqi",China Standard Time
+Asia/Macau,"Beijing, Chongqing, Hong Kong, Urumqi",China Standard Time
+Asia/Irkutsk,Irkutsk,North Asia East Standard Time
+Asia/Singapore,"Kuala Lumpur, Singapore",Singapore Standard Time
+Asia/Brunei,"Kuala Lumpur, Singapore",Singapore Standard Time
+Asia/Makassar,"Kuala Lumpur, Singapore",Singapore Standard Time
+Asia/Kuala_Lumpur Asia/Kuching,"Kuala Lumpur, Singapore",Singapore Standard Time
+Asia/Manila,"Kuala Lumpur, Singapore",Singapore Standard Time
+Etc/GMT-8,"Kuala Lumpur, Singapore",Singapore Standard Time
+Australia/Perth,Perth,W. Australia Standard Time
+Antarctica/Casey,Perth,W. Australia Standard Time
+Asia/Taipei,Taipei,Taipei Standard Time
+Asia/Ulaanbaatar,Ulaanbaatar,Ulaanbaatar Standard Time
+Asia/Ulaanbaatar Asia/Choibalsan,Ulaanbaatar,Ulaanbaatar Standard Time
+Asia/Pyongyang,Pyongyang,North Korea Standard Time
+Australia/Eucla,Eucla,Aus Central W. Standard Time
+Asia/Chita,Chita,Transbaikal Standard Time
+Asia/Tokyo,"Osaka, Sapporo, Tokyo",Tokyo Standard Time
+Asia/Jayapura,"Osaka, Sapporo, Tokyo",Tokyo Standard Time
+Pacific/Palau,"Osaka, Sapporo, Tokyo",Tokyo Standard Time
+Asia/Dili,"Osaka, Sapporo, Tokyo",Tokyo Standard Time
+Etc/GMT-9,"Osaka, Sapporo, Tokyo",Tokyo Standard Time
+Asia/Seoul,Seoul,Korea Standard Time
+Asia/Yakutsk,Yakutsk,Yakutsk Standard Time
+Asia/Yakutsk Asia/Khandyga,Yakutsk,Yakutsk Standard Time
+Australia/Adelaide,Adelaide,Cen. Australia Standard Time
+Australia/Adelaide Australia/Broken_Hill,Adelaide,Cen. Australia Standard Time
+Australia/Darwin,Darwin,AUS Central Standard Time
+Australia/Brisbane,Brisbane,E. Australia Standard Time
+Australia/Brisbane Australia/Lindeman,Brisbane,E. Australia Standard Time
+Australia/Sydney,"Canberra, Melbourne, Sydney",AUS Eastern Standard Time
+Australia/Sydney Australia/Melbourne,"Canberra, Melbourne, Sydney",AUS Eastern Standard Time
+Pacific/Port_Moresby,"Guam, Port Moresby",West Pacific Standard Time
+Antarctica/DumontDUrville,"Guam, Port Moresby",West Pacific Standard Time
+Pacific/Truk,"Guam, Port Moresby",West Pacific Standard Time
+Pacific/Guam,"Guam, Port Moresby",West Pacific Standard Time
+Pacific/Saipan,"Guam, Port Moresby",West Pacific Standard Time
+Etc/GMT-10,"Guam, Port Moresby",West Pacific Standard Time
+Australia/Hobart,Hobart,Tasmania Standard Time
+Australia/Hobart Australia/Currie,Hobart,Tasmania Standard Time
+Asia/Vladivostok,Vladivostok,Vladivostok Standard Time
+Asia/Vladivostok Asia/Ust-Nera,Vladivostok,Vladivostok Standard Time
+Australia/Lord_Howe,Lord Howe Island,Lord Howe Standard Time
+Pacific/Bougainville,Bougainville Island,Bougainville Standard Time
+Asia/Srednekolymsk,Chokurdakh,Russia Time Zone 10
+Asia/Magadan,Magadan,Magadan Standard Time
+Pacific/Norfolk,Norfolk Island,Norfolk Standard Time
+Asia/Sakhalin,Sakhalin,Sakhalin Standard Time
+Pacific/Guadalcanal,"Solomon Is., New Caledonia",Central Pacific Standard Time
+Antarctica/Macquarie,"Solomon Is., New Caledonia",Central Pacific Standard Time
+Pacific/Ponape Pacific/Kosrae,"Solomon Is., New Caledonia",Central Pacific Standard Time
+Pacific/Noumea,"Solomon Is., New Caledonia",Central Pacific Standard Time
+Pacific/Efate,"Solomon Is., New Caledonia",Central Pacific Standard Time
+Etc/GMT-11,"Solomon Is., New Caledonia",Central Pacific Standard Time
+Asia/Kamchatka,"Anadyr, Petropavlovsk-Kamchatsky",Russia Time Zone 11
+Asia/Kamchatka Asia/Anadyr,"Anadyr, Petropavlovsk-Kamchatsky",Russia Time Zone 11
+Pacific/Auckland,"Auckland, Wellington",New Zealand Standard Time
+Antarctica/McMurdo,"Auckland, Wellington",New Zealand Standard Time
+Etc/GMT-12,Coordinated Universal Time+12,UTC+12
+Pacific/Tarawa,Coordinated Universal Time+12,UTC+12
+Pacific/Majuro Pacific/Kwajalein,Coordinated Universal Time+12,UTC+12
+Pacific/Nauru,Coordinated Universal Time+12,UTC+12
+Pacific/Funafuti,Coordinated Universal Time+12,UTC+12
+Pacific/Wake,Coordinated Universal Time+12,UTC+12
+Pacific/Wallis,Coordinated Universal Time+12,UTC+12
+Pacific/Fiji,Fiji,Fiji Standard Time
+Pacific/Chatham,Chatham Islands,Chatham Islands Standard Time
+Pacific/Tongatapu,Nuku'alofa,Tonga Standard Time
+Pacific/Enderbury,Nuku'alofa,Tonga Standard Time
+Pacific/Fakaofo,Nuku'alofa,Tonga Standard Time
+Etc/GMT-13,Nuku'alofa,Tonga Standard Time
+Pacific/Apia,Samoa,Samoa Standard Time
+Pacific/Kiritimati,Kiritimati Island,Line Islands Standard Time
+Etc/GMT-14,Kiritimati Island,Line Islands Standard Time
+Africa/Asmara,Nairobi,E. Africa Standard Time
+Africa/Timbuktu,"Monrovia, Reykjavik",Greenwich Standard Time
+America/Atka,Aleutian Islands,Aleutian Standard Time
+America/Ensenada,Baja California,Pacific Standard Time (Mexico)
+America/Santa_Isabel,Baja California,Pacific Standard Time (Mexico)
+America/Shiprock,Mountain Time (US & Canada),Mountain Standard Time
+America/Virgin,"Georgetown, La Paz, Manaus, San Juan",SA Western Standard Time
+Antarctica/South_Pole,"Auckland, Wellington",New Zealand Standard Time
+Asia/Ashkhabad,"Ashgabat, Tashkent",West Asia Standard Time
+Asia/Chongqing,"Beijing, Chongqing, Hong Kong, Urumqi",China Standard Time
+Asia/Chungking,"Beijing, Chongqing, Hong Kong, Urumqi",China Standard Time
+Asia/Dacca,Dhaka,Bangladesh Standard Time
+Asia/Harbin,"Beijing, Chongqing, Hong Kong, Urumqi",China Standard Time
+Asia/Istanbul,Istanbul,Turkey Standard Time
+Asia/Kashgar,Astana,Central Asia Standard Time
+Asia/Macao,"Beijing, Chongqing, Hong Kong, Urumqi",China Standard Time
+Asia/Tel_Aviv,Jerusalem,Israel Standard Time
+Asia/Thimbu,Dhaka,Bangladesh Standard Time
+Asia/Ujung_Pandang,"Kuala Lumpur, Singapore",Singapore Standard Time
+Asia/Ulan_Bator,Ulaanbaatar,Ulaanbaatar Standard Time
+Atlantic/Jan_Mayen,"Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",W. Europe Standard Time
+Australia/ACT,"Canberra, Melbourne, Sydney",AUS Eastern Standard Time
+Australia/Canberra,"Canberra, Melbourne, Sydney",AUS Eastern Standard Time
+Australia/LHI,Lord Howe Island,Lord Howe Standard Time
+Australia/North,Darwin,AUS Central Standard Time
+Australia/NSW,"Canberra, Melbourne, Sydney",AUS Eastern Standard Time
+Australia/Queensland,Brisbane,E. Australia Standard Time
+Australia/South,Adelaide,Cen. Australia Standard Time
+Australia/Tasmania,Hobart,Tasmania Standard Time
+Australia/West,Perth,W. Australia Standard Time
+Brazil/DeNoronha,Coordinated Universal Time-02,UTC-02
+Brazil/East,Brasilia,E. South America Standard Time
+Canada/Atlantic,Atlantic Time (Canada),Atlantic Standard Time
+Canada/East-Saskatchewan,Saskatchewan,Canada Central Standard Time
+Canada/Newfoundland,Newfoundland,Newfoundland Standard Time
+Canada/Saskatchewan,Saskatchewan,Canada Central Standard Time
+Chile/Continental,Santiago,Pacific SA Standard Time
+Chile/EasterIsland,Easter Island,Easter Island Standard Time
+Cuba,Havana,Cuba Standard Time
+Egypt,Cairo,Egypt Standard Time
+Eire,"Dublin, Edinburgh, Lisbon, London",GMT Standard Time
+Etc/GMT+0,Coordinated Universal Time,UTC
+Etc/GMT0,Coordinated Universal Time,UTC
+Etc/GMT-0,Coordinated Universal Time,UTC
+Etc/Greenwich,Coordinated Universal Time,UTC
+Europe/Belfast,"Dublin, Edinburgh, Lisbon, London",GMT Standard Time
+Europe/Busingen,"Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",W. Europe Standard Time
+Europe/Nicosia,"Athens, Bucharest",GTB Standard Time
+Europe/Tiraspol,Chisinau,E. Europe Standard Time
+GB-Eire,"Dublin, Edinburgh, Lisbon, London",GMT Standard Time
+GMT,Coordinated Universal Time,UTC
+GMT+0,Coordinated Universal Time,UTC
+GMT0,Coordinated Universal Time,UTC
+GMT-0,Coordinated Universal Time,UTC
+Greenwich,Coordinated Universal Time,UTC
+Hongkong,"Beijing, Chongqing, Hong Kong, Urumqi",China Standard Time
+Iceland,"Monrovia, Reykjavik",Greenwich Standard Time
+Iran,Tehran,Iran Standard Time
+Israel,Jerusalem,Israel Standard Time
+Jamaica,"Bogota, Lima, Quito, Rio Branco",SA Pacific Standard Time
+Japan,"Osaka, Sapporo, Tokyo",Tokyo Standard Time
+Libya,Tripoli,Libya Standard Time
+Mexico/BajaNorte,Baja California,Pacific Standard Time (Mexico)
+Mexico/General,"Guadalajara, Mexico City, Monterrey",Central Standard Time (Mexico)
+Navajo,Mountain Time (US & Canada),Mountain Standard Time
+NZ-CHAT,Chatham Islands,Chatham Islands Standard Time
+Pacific/Samoa,Coordinated Universal Time-11,UTC-11
+Poland,"Sarajevo, Skopje, Warsaw, Zagreb",Central European Standard Time
+PRC,"Beijing, Chongqing, Hong Kong, Urumqi",China Standard Time
+ROC,Taipei,Taipei Standard Time
+ROK,Seoul,Korea Standard Time
+Singapore,"Kuala Lumpur, Singapore",Singapore Standard Time
+Turkey,Istanbul,Turkey Standard Time
+US/Alaska,Alaska,Alaskan Standard Time
+US/Aleutian,Aleutian Islands,Aleutian Standard Time
+US/Arizona,Arizona,US Mountain Standard Time
+US/Central,Central Time (US & Canada),Central Standard Time
+US/Eastern,Eastern Time (US & Canada),Eastern Standard Time
+US/Hawaii,Hawaii,Hawaiian Standard Time
+US/Mountain,Mountain Time (US & Canada),Mountain Standard Time
+US/Pacific,Pacific Time (US & Canada),Pacific Standard Time
+US/Pacific-New,Pacific Time (US & Canada),Pacific Standard Time
+US/Samoa,Coordinated Universal Time-11,UTC-11
+W-SU,"Moscow, St. Petersburg, Volgograd",Russian Standard Time
+Etc/UTC,Coordinated Universal Time,UTC
+UCT,Coordinated Universal Time,UTC
+Europe/Lisbon,"Dublin, Edinburgh, Lisbon, London",GMT Standard Time
+Etc/Universal,Coordinated Universal Time,UTC
+Etc/Zulu,Coordinated Universal Time,UTC
+Portugal,"Dublin, Edinburgh, Lisbon, London",GMT Standard Time
+Universal,Coordinated Universal Time,UTC
+UTC,Coordinated Universal Time,UTC
+Zulu,Coordinated Universal Time,UTC
+America/Argentina/Buenos_Aires,City of Buenos Aires,Argentina Standard Time
+America/Argentina/Catamarca,City of Buenos Aires,Argentina Standard Time
+America/Argentina/Cordoba,City of Buenos Aires,Argentina Standard Time
+America/Argentina/Jujuy,City of Buenos Aires,Argentina Standard Time
+America/Argentina/La_Rioja,City of Buenos Aires,Argentina Standard Time
+America/Argentina/Mendoza,City of Buenos Aires,Argentina Standard Time
+America/Argentina/Rio_Gallegos,City of Buenos Aires,Argentina Standard Time
+America/Argentina/Salta,City of Buenos Aires,Argentina Standard Time
+America/Argentina/San_Juan,City of Buenos Aires,Argentina Standard Time
+America/Argentina/San_Luis,City of Buenos Aires,Argentina Standard Time
+America/Argentina/Tucuman,City of Buenos Aires,Argentina Standard Time
+America/Argentina/Ushuaia,City of Buenos Aires,Argentina Standard Time
+Etc/UCT,Coordinated Universal Time,UTC
+America/Argentina/ComodRivadavia,City of Buenos Aires,Argentina Standard Time
+America/Catamarca,City of Buenos Aires,Argentina Standard Time
+America/Cordoba,City of Buenos Aires,Argentina Standard Time
+America/Jujuy,City of Buenos Aires,Argentina Standard Time
+America/Mendoza,City of Buenos Aires,Argentina Standard Time
+America/Rosario,City of Buenos Aires,Argentina Standard Time
+Asia/Gaza,"Gaza, Hebron",West Bank Standard Time
+Asia/Pontianak,"Bangkok, Hanoi, Jakarta",SE Asia Standard Time
+America/Indiana/Tell_City,Central Time (US & Canada),Central Standard Time
+Asia/Kuala_Lumpur,"Kuala Lumpur, Singapore",Singapore Standard Time
+America/Campo_Grande,Cuiaba,Central Brazilian Standard Time
+America/Fort_Nelson,Arizona,US Mountain Standard Time
+America/Bahia_Banderas,"Guadalajara, Mexico City, Monterrey",Central Standard Time (Mexico)
+America/Juneau,Alaska,Alaskan Standard Time
+America/Indiana/Vincennes,Eastern Time (US & Canada),Eastern Standard Time
+America/Inuvik,Mountain Time (US & Canada),Mountain Standard Time
+Europe/Kirov,"Moscow, St. Petersburg, Volgograd",Russian Standard Time
+America/Dawson,Pacific Time (US & Canada),Pacific Standard Time
+Europe/Uzhgorod,"Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",FLE Standard Time
+America/Indiana/Petersburg,Eastern Time (US & Canada),Eastern Standard Time
+America/North_Dakota/New_Salem,Central Time (US & Canada),Central Standard Time
+America/Creston,Arizona,US Mountain Standard Time
+America/Cambridge_Bay,Mountain Time (US & Canada),Mountain Standard Time
+America/Glace_Bay,Atlantic Time (Canada),Atlantic Standard Time
+America/Merida,"Guadalajara, Mexico City, Monterrey",Central Standard Time (Mexico)
+Asia/Oral,"Ashgabat, Tashkent",West Asia Standard Time
+America/Indiana/Winamac,Eastern Time (US & Canada),Eastern Standard Time
+Asia/Khandyga,Yakutsk,Yakutsk Standard Time
+America/Yellowknife,Mountain Time (US & Canada),Mountain Standard Time
+America/Pangnirtung,Eastern Time (US & Canada),Eastern Standard Time
+Australia/Broken_Hill,Adelaide,Cen. Australia Standard Time
+America/Manaus,"Georgetown, La Paz, Manaus, San Juan",SA Western Standard Time
+America/Recife,"Cayenne, Fortaleza",SA Eastern Standard Time
+America/Indiana/Knox,Central Time (US & Canada),Central Standard Time
+Europe/Simferopol,"Moscow, St. Petersburg, Volgograd",Russian Standard Time
+Pacific/Kosrae,"Solomon Is., New Caledonia",Central Pacific Standard Time
+America/Whitehorse,Pacific Time (US & Canada),Pacific Standard Time
+America/Rio_Branco,"Bogota, Lima, Quito, Rio Branco",SA Pacific Standard Time
+America/Edmonton,Mountain Time (US & Canada),Mountain Standard Time
+America/Indiana/Marengo,Indiana (East),US Eastern Standard Time
+Asia/Jakarta,"Bangkok, Hanoi, Jakarta",SE Asia Standard Time
+America/Belem,"Cayenne, Fortaleza",SA Eastern Standard Time
+America/Nipigon,Eastern Time (US & Canada),Eastern Standard Time
+Africa/Ceuta,"Brussels, Copenhagen, Madrid, Paris",Romance Standard Time
+America/Sitka,Alaska,Alaskan Standard Time
+Europe/Madrid,"Brussels, Copenhagen, Madrid, Paris",Romance Standard Time
+America/Boa_Vista,"Georgetown, La Paz, Manaus, San Juan",SA Western Standard Time
+Asia/Anadyr,"Anadyr, Petropavlovsk-Kamchatsky",Russia Time Zone 11
+America/Mazatlan,"Chihuahua, La Paz, Mazatlan",Mountain Standard Time (Mexico)
+America/Santarem,"Cayenne, Fortaleza",SA Eastern Standard Time
+America/Rankin_Inlet,Central Time (US & Canada),Central Standard Time
+Atlantic/Madeira,"Dublin, Edinburgh, Lisbon, London",GMT Standard Time
+Asia/Ust-Nera,Vladivostok,Vladivostok Standard Time
+Asia/Samarkand,"Ashgabat, Tashkent",West Asia Standard Time
+America/Fortaleza,"Cayenne, Fortaleza",SA Eastern Standard Time
+Asia/Choibalsan,Ulaanbaatar,Ulaanbaatar Standard Time
+Australia/Melbourne,"Canberra, Melbourne, Sydney",AUS Eastern Standard Time
+America/North_Dakota/Beulah,Central Time (US & Canada),Central Standard Time
+Asia/Qyzylorda,Astana,Central Asia Standard Time
+America/Rainy_River,Central Time (US & Canada),Central Standard Time
+America/Porto_Velho,"Georgetown, La Paz, Manaus, San Juan",SA Western Standard Time
+Europe/Zaporozhye,"Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",FLE Standard Time
+Australia/Currie,Hobart,Tasmania Standard Time
+America/Dawson_Creek,Arizona,US Mountain Standard Time
+America/Monterrey,"Guadalajara, Mexico City, Monterrey",Central Standard Time (Mexico)
+America/Boise,Mountain Time (US & Canada),Mountain Standard Time
+America/Nome,Alaska,Alaskan Standard Time
+Asia/Novokuznetsk,Krasnoyarsk,North Asia Standard Time
+Asia/Aqtau,"Ashgabat, Tashkent",West Asia Standard Time
+America/Maceio,"Cayenne, Fortaleza",SA Eastern Standard Time
+Australia/Lindeman,Brisbane,E. Australia Standard Time
+America/Goose_Bay,Atlantic Time (Canada),Atlantic Standard Time
+America/Indiana/Vevay,Indiana (East),US Eastern Standard Time
+Asia/Kuching,"Kuala Lumpur, Singapore",Singapore Standard Time
+America/Menominee,Central Time (US & Canada),Central Standard Time
+America/Resolute,Central Time (US & Canada),Central Standard Time
+America/Vancouver,Pacific Time (US & Canada),Pacific Standard Time
+Pacific/Kwajalein,Coordinated Universal Time+12,UTC+12
+America/Toronto,Eastern Time (US & Canada),Eastern Standard Time
+America/Winnipeg,Central Time (US & Canada),Central Standard Time
+America/Detroit,Eastern Time (US & Canada),Eastern Standard Time
+America/Thunder_Bay,Eastern Time (US & Canada),Eastern Standard Time
+America/Kentucky/Monticello,Eastern Time (US & Canada),Eastern Standard Time
+America/Metlakatla,Alaska,Alaskan Standard Time
+Asia/Aqtobe,"Ashgabat, Tashkent",West Asia Standard Time
+America/North_Dakota/Center,Central Time (US & Canada),Central Standard Time
+America/Moncton,Atlantic Time (Canada),Atlantic Standard Time
+America/Yakutat,Alaska,Alaskan Standard Time
+America/Montreal,Eastern Time (US & Canada),Eastern Standard Time
+America/Swift_Current,Saskatchewan,Canada Central Standard Time
+Europe/Ulyanovsk,"Astrakhan, Ulyanovsk",Astrakhan Standard Time
+Europe/Volgograd,"Moscow, St. Petersburg, Volgograd",Russian Standard Time
+America/Eirunepe,"Bogota, Lima, Quito, Rio Branco",SA Pacific Standard Time
+Pacific/Majuro,Coordinated Universal Time+12,UTC+12
+America/Iqaluit,Eastern Time (US & Canada),Eastern Standard Time
+America/Louisville,Eastern Time (US & Canada),Eastern Standard Time
+Asia/Omsk,Novosibirsk,N. Central Asia Standard Time
+Pacific/Ponape,"Solomon Is., New Caledonia",Central Pacific Standard Time
